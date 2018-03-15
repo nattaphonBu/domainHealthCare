@@ -18,9 +18,16 @@
           <div class="btn-group">
             <button class="btn btn-primary dropdown-toggle" data-toggle="dropdown"> อาการบาดเจ็บ </button>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="cure/cure1.php">กล้ามเนื้อชอกช้ำ (Contusion)</a>
+              <a class="dropdown-item" href="/cure/cure1.php">กล้ามเนื้อชอกช้ำ (Contusion)</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">ข้อเท้า</a>
+              <a class="dropdown-item" href="/cure/cure2.php">ตะคริว (muscle cramp)</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="/cure/cure3.php">กล้ามเนื้อบวม (muscle swelling)</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="/cure/cure4.php">กล้ามเนื้อฉีกขาด (muscular strain)</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="/cure/cure5.php">ข้อเคล็ด ข้อแพลง (Sprain)</a>
+              <div class="dropdown-divider"></div>
             </div>
           </div>
         </div>
