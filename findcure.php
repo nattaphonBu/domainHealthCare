@@ -28,6 +28,8 @@
               <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="../../cure/cure5.php">ข้อเคล็ด ข้อแพลง (Sprain)</a>
               <div class="dropdown-divider"></div>
+              <br>
+              <a class="btn btn-primary" href="../index.php">กลับสู่หน้าหลัก </a>
             </div>
           </div>
         </div>
