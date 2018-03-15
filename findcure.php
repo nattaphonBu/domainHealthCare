@@ -36,6 +36,7 @@
     </div>
     <a class="btn btn-primary" href="../index.php">กลับสู่หน้าหลัก </a>
   </div>
+  <a class="btn btn-primary" href="../index.php">กลับสู่หน้าหลัก </a>
 </body>
 </html>
 <?php
