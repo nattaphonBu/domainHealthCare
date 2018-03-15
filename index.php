@@ -39,33 +39,16 @@
       <div class="row">
         <div class="col-md-12">
           <h1 class="display-3 mb-4 text-primary">Physical Therapy Health Care</h1>
-          <p class="lead mb-5">อุบัติเหตุนั้นเกิดขึ้นง่าย หลีกเลี่ยงก็เป็นเรื่องยาก ฉนั้นมาเรียนรู้วิธีการรักษากันเถอะกับ PT-HealthCare           
+          <p class="lead mb-5">อุบัติเหตุนั้นเกิดขึ้นง่าย หลีกเลี่ยงก็เป็นเรื่องยาก ฉนั้นมาเรียนรู้วิธีการรักษากันเถอะกับ PT-HealthCare     
+          <a class="btn btn-primary" href="../findcure.php">ตรวจอาการ </a>
+               
           </p>
         </div>
       </div>
     </div>
   </div>
   
-  <div class="py-5">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="row">
-            <div class="col-md-6">
-              <img class="img-fluid d-block w-100  mb-3 rounded" src="picture/pt2.jpeg">
-              <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </div>
-            <div class="col-md-6">
-              <img class="img-fluid d-block w-100  mb-3 rounded" src="picture/pt3.jpeg">
-              <p class="">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  
   <div class="py-5 bg-dark text-white">
     <div class="container">
       <div class="row">
