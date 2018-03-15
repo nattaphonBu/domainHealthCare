@@ -39,10 +39,8 @@
       <div class="row">
         <div class="col-md-12">
           <h1 class="display-3 mb-4 text-primary">Physical Therapy Health Care</h1>
-          <p class="lead mb-5">อุบัติเหตุนั้นเกิดขึ้นง่าย หลีกเลี่ยงก็เป็นเรื่องยาก ฉนั้นมาเรียนรู้วิธีการรักษากันเถอะกับ PT-HealthCare     
+          <p class="lead mb-5">อุบัติเหตุนั้นเกิดขึ้นง่าย หลีกเลี่ยงก็เป็นเรื่องยาก ฉนั้นมาเรียนรู้วิธีการรักษากันเถอะกับ PT-HealthCare  </p><br>
           <a class="btn btn-primary" href="../findcure.php">ตรวจอาการ </a>
-               
-          </p>
         </div>
       </div>
     </div>
